@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520430859 source:c:\users\awptimus\desktop\tema_lfa_1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
+1522362201 source:c:\users\awptimus\desktop\files\tema_lfa_1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
